@@ -1,0 +1,22 @@
+#cai{
+	list-style: none;
+	color: midnightblue;
+	font-family: "微软雅黑";
+	font-size: 30px;
+}
+#cai>li{
+	background-color: darkgoldenrod;
+	color: darkorange;
+	border: 1px;
+	width: 100px;
+	display: inline-block;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+}
+#cai li:hover{
+	color: #00FFFF;
+	background-color: #191970;
+	box-shadow:0px 0px 1px 2px  blueviolet;
+	border-radius: 20px;
+	}
